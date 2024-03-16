@@ -1,4 +1,7 @@
-<!-- <div style='background-color:dodgerblue'> -->
+| 이름 | 학과 | 학번 |
+| :---: | :---: | :---: |
+|황경서|언어학과|23|
+
 # <span style='color:lightpink'>✒️All About 황경서✒️</span>
 
 > 서울대학교 언어학과 23학번<br>
