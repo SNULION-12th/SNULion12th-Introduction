@@ -1,5 +1,9 @@
 # <span style="color: yellow">멋쟁이사자처럼 12기</span> **_박상언_**
+| 이름 | 학과 | 학번 |
+| :---: | :---: | :---: |
+|박상언|자유전공학부|19|
 ***
+
 * 기본소개
     *  <span style="color: #2D3748; background-color: #F7DDBE">전공</span>   
             **_<br>자유전공학부 19학번 (경제학, 컴퓨터공학 전공)_**  
@@ -8,7 +12,7 @@
             <br>**_1999년 05월 12일생(26세)_**  
     <br>
     * <span style="color: #2D3748; background-color: #F7DDBE">고향</span>  
-            <br>**_경기도 구리시 26년째 거주중(현재는 자취)_**  
+            <br>**_경기도 구리시 26년째 거주중(현재는 녹두에서 자취)_**  
     <br>
     * <span style="color: #2D3748; background-color: #F7DDBE">MBTI</span>  
             <br>**_ENTP_**  
