@@ -8,6 +8,6 @@
     <p style = "color: darkgray;">재밌는 일이 없을까</p>
     <p style = "color: darkgray;">배고프다</p>
     <p style = "color: darkgray;">멋사 엠티에 갈 수 있을 것인가?</p>
-    <h2>MBTI : ENFPdfdfdfdf</h2>
+    <h2>MBTI : ENFPdfdfdfddfdfdfdfdf</h2>
     
 </article>
