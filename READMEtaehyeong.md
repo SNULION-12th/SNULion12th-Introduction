@@ -5,7 +5,7 @@
 <span><mark style="all: unset; color: violet">김태형</mark>을 소개합니다</span>
 ===
 
-![김태형](./img/testProfile.jpeg)
+![김태형](./img_taehyeong/testProfile.jpeg)
 
 <ul style="list-style: none; padding-left: 1em">
     <li>📌 17학번 98년생</li>
