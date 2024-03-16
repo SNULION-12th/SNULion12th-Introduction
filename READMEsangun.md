@@ -8,7 +8,7 @@
             <br>**_1999년 05월 12일생(26세)_**  
     <br>
     * <span style="color: #2D3748; background-color: #F7DDBE">고향</span>  
-            <br>**_경기도 구리시 26년째 거주중(현재는 자취)_**  
+            <br>**_경기도 구리시 26년째 거주중(현재는 녹두에서 자취)_**  
     <br>
     * <span style="color: #2D3748; background-color: #F7DDBE">MBTI</span>  
             <br>**_ENTP_**  
