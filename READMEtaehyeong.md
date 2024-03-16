@@ -1,3 +1,7 @@
+| 이름 | 학과 | 학번 |
+| :---: | :---: | :---: |
+|김태형|철학과/정보문화학|17
+
 <span><mark style="all: unset; color: violet">김태형</mark>을 소개합니다</span>
 ===
 
